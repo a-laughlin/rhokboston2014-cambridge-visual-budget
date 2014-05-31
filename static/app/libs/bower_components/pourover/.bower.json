@@ -1,0 +1,37 @@
+{
+  "name": "pourover",
+  "main": "pourover.js",
+  "homepage": "http://nytimes.github.io/pourover/",
+  "authors": [
+    "NYTimes"
+  ],
+  "description": "A library for simple, fast filtering and sorting of large collections in the browser",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "filter",
+    "sort",
+    "colections"
+  ],
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.6.0"
+  },
+  "_release": "3746ed798f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "3746ed798fa80f98992ba11059ef2b0c71eb8901"
+  },
+  "_source": "git://github.com/jfsiii/pourover.git",
+  "_target": "*",
+  "_originalSource": "pourover"
+}
